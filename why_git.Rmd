@@ -13,7 +13,10 @@ output: ioslides_presentation
 Крупнейший бесплатный репозитарий <http://github.com>.
 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+Git -- система управлениями версиями исходных кодов 
+- языков программирования
+- разметки
+- документации
 
 ## Slide with Bullets
 
