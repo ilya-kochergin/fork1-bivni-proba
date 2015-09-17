@@ -1,7 +1,10 @@
 # Example main file
+setwd("~/Documents/bivni_msu/bivni-2/bivni-proba")
 
 # scatter plot
-# source scatter.R
+ source( "scatter.R" )
 
 # histogam 
-# source histogram.R
+list.files(".")
+ source( "histogram.R")
+ 
