@@ -19,11 +19,11 @@ Git -- система управлениями версиями исходных
 - разметки
 - документации
 
-## Slide with Bullets
+## Три дерева под контролем Git 
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Рабочая директория 
+- Stage index
+- Репозиторий Git
 
 ## Slide with R Code and Output
 
