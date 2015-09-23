@@ -1,5 +1,7 @@
 # Example main file
-setwd("~/Documents/bivni_msu/bivni-2/bivni-proba")
+require(ggplot2)
+
+setwd("~/exercises/bivni-proba")
 
 # scatter plot
  source( "scatter.R" )

@@ -1,1 +1,1 @@
-hist(mtcars$hp)
+qplot(mtcars$hp,geom="histogram",binwidth=25)
